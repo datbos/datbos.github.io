@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## WELCOME TO DATBOS 
+### YOUR ANSWER TO YOUR MACHINE LEARNING QUESTIONS
+**Our mission: To improve public well-being by bringing the highest standards of quality, objectivity, and excellence to bear on the work we do for our clients, which include federal, state, and local government agencies, as well as private foundations.**
 
-You can use the [editor on GitHub](https://github.com/datbos/datbos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Recognized research organization that conducts social policy research on health care, disability, education, welfare, nutrition, and other topics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* data management
+* data analysis
+* project management
+* data visualization
+* study design and analysis
 
-### Markdown
+Using Regression Analysis, natural language processing or network analysis to yield crucial evidence and information for policy and decision makers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datbos/datbos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
