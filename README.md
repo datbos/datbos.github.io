@@ -1,14 +1,32 @@
-## WELCOME TO DATBOS 
-### YOUR ANSWER TO YOUR MACHINE LEARNING QUESTIONS
-**Our mission: To improve public well-being by bringing the highest standards of quality, objectivity, and excellence to bear on the work we do for our clients, which include federal, state, and local government agencies, as well as private foundations.**
+Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
+=========================
 
-Recognized research organization that conducts social policy research on health care, disability, education, welfare, nutrition, and other topics. 
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-* data management
-* data analysis
-* project management
-* data visualization
-* study design and analysis
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
 
-Using Regression Analysis, natural language processing or network analysis to yield crucial evidence and information for policy and decision makers.
+---
+```
 
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+---------
+For more details, read the [documentation](http://jekyllrb.com/)

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: med bw.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Medical Device Development
+description: conceptualize and lead the development of regulatory compliant imaging, medical systems and devices from product requirements, risk management, feasibility studies, development, verification and validation to final product launch. Ensure regulatory compliance (ISO 13485), design control documentation and prototyping and testing. 
+
+---

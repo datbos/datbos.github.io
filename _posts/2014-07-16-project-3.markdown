@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: micro bw.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Image Processing
+description: Process optical pattern recognition algorithm development and machine vision inspection automation, imaging and data processing in the final stages of product development and product introduction in a very competitive automation market. 
+
+---
