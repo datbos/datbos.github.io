@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2017-10-23
-img: bike bw.png
+img: bike bw txt.png
 alt: image-alt
 project-date: October 2017
-client: Start Bootstrap
-category: Web Development
-description: Data Science Cycle
+client: DATBOS
+category: TRNSPORTATION
+description: DATA SCIENCE CYCLE REGRESSION
 
 ---

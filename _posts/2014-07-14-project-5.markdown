@@ -2,11 +2,11 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: IMG_0422 bw.png
+img: IMG_0422 bw txt.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Coffee and Tea
+category: TELE-HEALTH
 description: Augmented Reality 3-D imaging for the tele-health space
 
 ---
