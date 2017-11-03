@@ -5,8 +5,8 @@ date: 2017-10-23
 img: boston energy.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Boston Energy Commission
 category: Energy
-description: Energy focus autocorrelation regression time series analysis for electrical energy consumption.
+description: Energy focus autocorrelation regression time series predictive analysis for electrical energy consumption at Boston Public Library.
 
 ---
