@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Stem Cell Research
-description: Parthenode Stem Cell Research using QPCR, digital PCR and fluorescent probe assay design for genome editing diagnostics
+description: Parthenode Stem Cell Research using QPCR, digital PCR and fluorescent probe assay design for genome editing diagnostics. CRISPR CAS to modify develomental stage proteins to illucidate and compare the mechanisms and signal transduction pathways of mouse vs human parthenote development.
 
 ---
