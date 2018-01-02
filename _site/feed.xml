@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-12-28T11:04:04+01:00</updated>
+  <updated>2018-01-01T12:08:41+01:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Project 6</title>
-      <link href="http://localhost:4000/trnsportation/2017/10/23/project-6/" rel="alternate" type="text/html" title="Project 6" />
+      <link href="http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6/" rel="alternate" type="text/html" title="Project 6" />
       <published>2017-10-23T00:00:00+02:00</published>
       <updated>2017-10-23T00:00:00+02:00</updated>
-      <id>http://localhost:4000/trnsportation/2017/10/23/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/trnsportation/2017/10/23/project-6/"></content>
+      <id>http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6/"></content>
 
       
       
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="TRNSPORTATION" />
+        <category term="NLP Skill Data Mining" />
       
 
       
