@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-01-26T16:31:12-05:00</updated>
+  <updated>2018-01-26T17:36:06-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -41,6 +41,40 @@
 
       
         <category term="Energy" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 7</title>
+      <link href="http://localhost:4000/molecular%20biology/2017/10/23/project-7/" rel="alternate" type="text/html" title="Project 7" />
+      <published>2017-10-23T00:00:00-04:00</published>
+      <updated>2017-10-23T00:00:00-04:00</updated>
+      <id>http://localhost:4000/molecular%20biology/2017/10/23/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/molecular%20biology/2017/10/23/project-7/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Molecular Biology" />
       
 
       
