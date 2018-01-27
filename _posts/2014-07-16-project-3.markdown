@@ -2,11 +2,15 @@
 layout: default
 modal-id: 3
 date: 2017-07-16
-img: micro bw txt.png
+img: Parkinsons Dat.png
+img1:
 alt: image-alt
-project-date: April 2014
+project-date: 2017 - ongoing
+project-link:
 client: Start Bootstrap
-category: LIFESCIENCE
-description: Process optical pattern recognition algorithm development and machine vision inspection automation, imaging and data processing in the final stages of product development and product introduction in a very competitive automation market. 
+client-link:
+category: Healthcare
+service-link:
+description: Parkinson's Disease Machine learning Diagnosis - Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinson's disease and healthy patients.
 
 ---
