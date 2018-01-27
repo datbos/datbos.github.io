@@ -6,7 +6,7 @@ img: conbio bw txt.png
 img1: 
 alt: image-alt
 project-date: DVT
-project-link: "https://en.wikipedia.org/wiki/Deep_vein_thrombosis"
+project-link: "https://github.com/datbos/datbos.github.io/blob/master/Red%20Laser%20feedback%20blood.pdf"
 client: Gore Medical
 client-link: "http://stroke.ahajournals.org/content/32/Suppl_1/319.3"
 category: Medical Devices
