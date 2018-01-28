@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2017-10-23
-img: IMG_0422 bw txt.png
+img: BPL autocor.png
 img1:
 alt: image-alt
 project-date: Git Energy Consumption
