@@ -6,10 +6,10 @@ img: Parkinsons Dat.png
 img1:
 alt: image-alt
 project-date: 2017 - ongoing
-project-link:
+project-link: "https://github.com/marcmeijer/Parkinsons/blob/master/Parkinson%20Final.ipynb"
 client: Start Bootstrap
 client-link:
-category: Healthcare
+category: Digital Health
 service-link:
 description: Parkinson's Disease Machine learning Diagnosis - Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinson's disease and healthy patients.
 
