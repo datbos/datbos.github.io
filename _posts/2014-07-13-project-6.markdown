@@ -11,5 +11,5 @@ client: Start Bootstrap
 client-link:
 category: Time Series Analysis
 service-link:
-description: The TSA (Time Series Analysis) ENERGY consumption of the Boston Public Library (BPL) sampled every 5 minutes is analysed. The final result is the prediction of future energy consumption from past consumption trends and patterns.
+description: The TSA (Time Series Analysis) ENERGY consumption of the Boston Public Library (BPL) sampled every 5 minutes is analyzed. The final result is the prediction of future energy consumption from past consumption trends and patterns.
 ---
