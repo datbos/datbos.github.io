@@ -11,6 +11,6 @@ client: Start Bootstrap
 client-link:
 category: Digital Health
 service-link:
-description: Parkinson's Disease Machine learning Diagnosis - Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinson's disease and healthy patients.
+description: Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinsons disease and healthy patients.
 
 ---

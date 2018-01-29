@@ -9,8 +9,8 @@ project-date: October 2017
 project-link: "https://vimeo.com/214206239"
 client: Experimed Bioscience
 client-link: "http://www.venturedeal.com/CompanyProfiles/Experimed%20Bioscience.aspx"
-category: Molecular Biology
+category: Molecular Medicine
 service-link: "https://github.com/datbos/Data-Science-skills/blob/master/Indeed%20data%20science.ipynb"
-description: Molecular Medicine - Botulinum Neurotoxin (BoNT) is a three subunite compound that delivers its toxin "cargo" subunite across the blood brain barrier. The BoNT the L chain (light) is for general complex absorption and dissociates in the intracellular reducing environment. The H chain (heavy) is responsible for uptake into nerve endings and is linked by disulfide bonds to the cargo. The cargo toxin has been replaced with GFP and shown to translocate to the targeted neurons. 
+description: BoNT (Botulinum Neurotoxin) is a three subunite compound that delivers its toxin "cargo" subunite across the blood brain barrier. The BoNT the L chain (light) is for general complex absorption and dissociates in the intracellular reducing environment. The H chain (heavy) is responsible for uptake into nerve endings and is linked by disulfide bonds to the cargo. The cargo toxin has been replaced with GFP and shown to translocate to the targeted neurons. 
 
 ---

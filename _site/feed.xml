@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2018-01-27T11:53:32-05:00</updated>
+  <updated>2018-01-28T13:30:12-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Project 6</title>
-      <link href="http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6/" rel="alternate" type="text/html" title="Project 6" />
+      <link href="http://localhost:4000/time%20series%20analysis/2017/10/23/project-6/" rel="alternate" type="text/html" title="Project 6" />
       <published>2017-10-23T00:00:00-04:00</published>
       <updated>2017-10-23T00:00:00-04:00</updated>
-      <id>http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/nlp%20skill%20data%20mining/2017/10/23/project-6/"></content>
+      <id>http://localhost:4000/time%20series%20analysis/2017/10/23/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/time%20series%20analysis/2017/10/23/project-6/"></content>
 
       
       
@@ -40,7 +40,7 @@
       </author>
 
       
-        <category term="NLP Skill Data Mining" />
+        <category term="Time Series Analysis" />
       
 
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Project 3</title>
-      <link href="http://localhost:4000/lifescience/2017/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <link href="http://localhost:4000/digital%20health/2017/07/16/project-3/" rel="alternate" type="text/html" title="Project 3" />
       <published>2017-07-16T00:00:00-04:00</published>
       <updated>2017-07-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/lifescience/2017/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/lifescience/2017/07/16/project-3/"></content>
+      <id>http://localhost:4000/digital%20health/2017/07/16/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/digital%20health/2017/07/16/project-3/"></content>
 
       
       
@@ -108,7 +108,7 @@
       </author>
 
       
-        <category term="LIFESCIENCE" />
+        <category term="Digital Health" />
       
 
       
