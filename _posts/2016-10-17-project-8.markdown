@@ -6,7 +6,7 @@ img: SFR Edge.png
 img1:
 alt: image-alt
 project-date: October 2017
-project-link: 
+project-link: "https://github.com/datbos/datbos.github.io/blob/master/SFR%20Sony%20vs%2012Mpixel.pdf"
 client: Experimed Bioscience
 client-link: 
 category: Molecular Medicine
