@@ -10,7 +10,7 @@ project-link: "https://github.com/marcmeijer/Parkinsons/blob/master/Parkinson%20
 client: Start Bootstrap
 client-link:
 category: Digital Health
-service-link:
+service-link: "http://www.dailymail.co.uk/health/article-5323269/Michael-J-Fox-pledges-100-000-UK-university-develop-Parkinson-s-app.html"
 description: Parkinsons diagnosis through voice phonetics signal proccesing and pattern recognition. Voice metrics are correlated with patients with Parkinsons disease and healthy patients.
 
 ---
