@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 9
+date: 2000-10-23
+img: laserscope.png
+img1:
+alt: image-alt
+project-date: Surgical Lasers
+project-link: "https://www.youtube.com/watch?v=PSUhrlTEgJU"
+client: Laserscope
+client-link: "http://www.fundinguniverse.com/company-histories/laserscope-history/"
+category: Medical Devices
+service-link: "http://www.company-histories.com/Laserscope-Company-History.html"
+description: Laserscope products include new general surgical markets in plastic surgery and dermatology in addition to primary applications in urology for BPH therapies and general laparoscopic proceedures such as gall bladder removal and laser lithotripsy. 
+---
